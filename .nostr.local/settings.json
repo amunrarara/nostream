@@ -12,8 +12,8 @@
     "idleTimeout": 60
   },
   "payments": {
-    "enabled": true,
-    "processor": "zebedee",
+    "enabled": false,
+    "processor": "",
     "feeSchedules": {
       "admission": [{
         "enabled": true,
